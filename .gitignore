@@ -1,9 +1,9 @@
-# Virtual environments (any name)
-**/venv/
-**/.venv/
-**/env/
-**/ENV/
-**/*venv*/
+# Virtual environments 
+tensortonic/
+venv/
+.venv/
+env
+
 
 
 # Python cache
